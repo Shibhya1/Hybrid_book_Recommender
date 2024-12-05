@@ -9,7 +9,7 @@ This project implements a hybrid book recommendation system that combines conten
 
 ## Technologies Used
 - Programming Language: Python
-- Libraries: Pandas, NumPy, Scikit-learn, Flask, React.js
+- Libraries: Pandas, NumPy, Scikit-learn
 - Machine Learning Techniques: Content-Based Filtering, Collaborative Filtering
 
 ## Dataset
